@@ -1,7 +1,7 @@
 # NFT smart contract
 Deploy an NFT project on Ethereum
 
-This Tutorial assumes you have installed nodejs and npm
+This project assumes you have installed nodejs and npm
 
 ## Start Hardhat Project
 
